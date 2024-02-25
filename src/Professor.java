@@ -2,7 +2,7 @@ public class Professor extends Faculty{
 
     @Override
     public void workStyle() {
-        System.out.println("Professors teach like a pro!");
+        System.out.println("Professor teaches like a pro!");
     }
     @Override
     public int calculateSalary() {
